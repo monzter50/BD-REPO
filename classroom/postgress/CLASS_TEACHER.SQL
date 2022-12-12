@@ -1,0 +1,11 @@
+INSERT INTO CLASS_TEACHER(id_teacher,id_class) VALUES(11,1);
+INSERT INTO CLASS_TEACHER(id_teacher,id_class) VALUES(12,2);
+INSERT INTO CLASS_TEACHER(id_teacher,id_class) VALUES(13,3);
+INSERT INTO CLASS_TEACHER(id_teacher,id_class) VALUES(14,4);
+
+INSERT INTO CLASS_TEACHER(id_teacher,id_class) VALUES(15,5);
+INSERT INTO CLASS_TEACHER(id_teacher,id_class) VALUES(16,6);
+INSERT INTO CLASS_TEACHER(id_teacher,id_class) VALUES(17,7);
+INSERT INTO CLASS_TEACHER(id_teacher,id_class) VALUES(18,8);
+INSERT INTO CLASS_TEACHER(id_teacher,id_class) VALUES(19,9);
+INSERT INTO CLASS_TEACHER(id_teacher,id_class) VALUES(20,10);
